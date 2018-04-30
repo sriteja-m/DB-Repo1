@@ -7,4 +7,8 @@
         <members>A080890</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>A1__c</members>
+        <name>CustomObject</name>
+    </types>
 </Package>
