@@ -9,7 +9,6 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>A1__c.Number__c</members>
         <members>A1__c.Text_field__c</members>
         <name>CustomField</name>
     </types>
