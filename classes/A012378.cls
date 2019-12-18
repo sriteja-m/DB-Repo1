@@ -1,6 +1,6 @@
 public Class A012378
 {
-public Account createAccount(String name)  //ed d account
+public Account createAccount(String name)  //EDIT
 {
 //Test comment for Account A01234
 //Test1
