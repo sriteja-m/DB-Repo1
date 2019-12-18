@@ -3,6 +3,8 @@
     <version>45.0</version>
     <types>
         <members>A0123</members>
+        <members>A0001</members>
+        <members>A0123678</members>
         <members>A012378</members>
         <name>ApexClass</name>
     </types>
