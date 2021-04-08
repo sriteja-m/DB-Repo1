@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01eTl90J-Rules Engine:
+          path: dataset/01eTl90J-Rules Engine
+          prefix: Srilocal3
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2021-04-08 12:15:23'

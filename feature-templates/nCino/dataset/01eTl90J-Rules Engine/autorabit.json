@@ -1,0 +1,15 @@
+{
+  "prefix": "Srilocal3",
+  "packageDirectories": {
+    "1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
+    }
+  }
+}
